@@ -1,5 +1,5 @@
 # ShopTestApp
-Build-In users:
+Built-In users:
 
 Login:
 admin@sta.com

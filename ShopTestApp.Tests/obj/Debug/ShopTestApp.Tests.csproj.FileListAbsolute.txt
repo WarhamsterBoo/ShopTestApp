@@ -1,0 +1,108 @@
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.dll.config
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.pdb
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Owin.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.pdb
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.dll.config
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csproj.CopyComplete
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.dll
+C:\Users\Fairy Sister\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.pdb
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.dll.config
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.Tests.pdb
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Owin.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.pdb
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\ShopTestApp.dll.config
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.csproj.CopyComplete
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\obj\Debug\ShopTestApp.Tests.pdb
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\PagedList.dll
+C:\Users\yunovikova\Documents\Projects\SmartComTest\ShopTestApp\ShopTestApp.Tests\bin\Debug\PagedList.xml

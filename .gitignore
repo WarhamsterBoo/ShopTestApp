@@ -1,6 +1,5 @@
-
 ShopTestApp/bin/
-
 ShopTestApp/obj/
+ShopTestApp.Tests/bin/
+ShopTestApp.Tests/obj/
 .vs/
-ShopTestApp/app/build/
